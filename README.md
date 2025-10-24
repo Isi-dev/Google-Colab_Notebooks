@@ -5,6 +5,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 | Notebook | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Ditto/ComfyUI_Ditto_Video_Editing.ipynb)  | ComfyUI-Ditto for video Editing (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Wan22_OVI/ComfyUI_Wan22_OVI.ipynb)  | ComfyUI-Ovi for Text/Image to Video with Audio (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_Image_Edit_Plus/ComfyUI_Qwen_Image_Edit_2509.ipynb)  | ComfyUI - 1 to 3 Images to 1 Image with Qwen Image Edit 2509
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Wan_2_2_Animate/ComfyUI_Wan22_Animate.ipynb)  | ComfyUI - Img+Vid2Vid with Wan2.2 Animate (Tested on the L4)
