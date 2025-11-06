@@ -61,7 +61,7 @@ You can find more notebooks [here](https://isinse.gumroad.com/)
 Some of the comfyUI workflows are modifications of Kijai's workflows which you can find [here](https://github.com/kijai/ComfyUI-WanVideoWrapper/tree/main/example_workflows)
 
 ## Support
-If you find these notebooks helpful, you can support me here:  [![Buy Me a Coffee](https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buy-me-a-coffee)](https://buymeacoffee.com/isiomo)
+If you find these notebooks helpful, you can support me [here](https://github.com/sponsors/Isi-dev)
 
 ## Contributing
 I currently don't have the time to review pull requests. If you find any bugs or run into issues, please report them in the Issues section. Thanks!
