@@ -55,6 +55,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/flux/Flux1_Kontext_Dev_with_Mask_Editor_for_Inpainting.ipynb)  | Flux1 Kontext Dev with Mask Editor for Inpainting
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_Edit_2509_with_mask_editor.ipynb)  | Improved Qwen-Image-Edit-2509 (with Mask Editor)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/flux/Chroma_1_HD.ipynb)  | Chroma1-HD for text to Image
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/LTX2_TI2V_Distilled.ipynb)  | LTX-2 for Text/Image to Video with Audio
 
 
 
