@@ -61,6 +61,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 You can find more notebooks [here](https://isinse.gumroad.com/) 
 
+Use free web apps [here](https://isi-dev.netlify.app/#/isiapps#home)  
+
 Some of the comfyUI workflows are modifications of Kijai's workflows which you can find [here](https://github.com/kijai/ComfyUI-WanVideoWrapper/tree/main/example_workflows)
 
 ## Support
