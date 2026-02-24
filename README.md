@@ -5,6 +5,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 | Notebook | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/AceStep/acestep_v1_5.ipynb)  | ComfyUI-Ace-Step V1.5 for Music Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/ComfyUI_LTX2/ComfyUI_LTX2_I2V.ipynb)  | ComfyUI-LTX-2 for Video Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/HunyuanVideo_1_5/HunyuanVideo_1_5.ipynb)  | ComfyUI-HunyuanVideo-1.5 for Video Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/LongCat_Video/ComfyUI_LongCat_Video.ipynb)  | ComfyUI-LongCat for long Video Generation (Tested on the L4)
