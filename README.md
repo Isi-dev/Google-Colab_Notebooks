@@ -64,6 +64,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Z_Image/Z_image_turbo_for_T2I.ipynb)  | Z-Image Turbo for Text to Image
 | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/wan2_2/wan22_Lightx2v%20Infinite.ipynb) | Infinite Image to Video with Wan2.2 (by [@know1234567](https://github.com/know1234567))
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Dots_TTS_SOAR_Inference.ipynb)  | Text to Speech with Dots.TTS
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Transcribe_Audio_with_CrisperWhisper2.ipynb)  | Speech to Text with CrisperWhisper2.0
 
 
 You can find more notebooks [here](https://isinse.gumroad.com/) 
