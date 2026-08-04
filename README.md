@@ -5,6 +5,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 | Notebook | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3.ipynb)  | ComfyUI-MiniMax-H3 for Video Generation (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/scail2/Scail2.ipynb)  | ComfyUI-Scail2 for Motion Transfer & Character Swap (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/ComfyUI_LTX2_3/ComfyUI_LTX2_3_TI2V.ipynb)  | ComfyUI-LTX-2.3 for Text/Image to Video with Audio
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/AceStep/acestep_v1_5.ipynb)  | ComfyUI-Ace-Step V1.5 for Music Generation
