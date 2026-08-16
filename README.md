@@ -1,8 +1,18 @@
 # Google-Colab_Notebooks
 A Collection of Google Colab Notebooks for scripts & projects
 
-### LTX Workflows
-| LTX | Info
+
+### MiniMax
+| Notebooks | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/MinimaxMusic3.ipynb)  | ComfyUI-MiniMaxMusic3 for Music Generation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3.ipynb)  | ComfyUI-MiniMax-H3 for Video Generation (Tested on the L4)
+
+
+
+
+### LTX
+| Notebooks | Info
 | --- | --- |
  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/Experiment%20LTX23_TI2V_Distilled.ipynb) | LTX-23 for Text/Image to Video with Audio (by [@know1234567](https://github.com/know1234567))
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/LTX/LTX2_TI2V_Distilled.ipynb)  | LTX-2 for Text/Image to Video with Audio
@@ -15,16 +25,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 
 
-
-
-### MiniMax-H3 Workflows
-| LTX | Info
-| --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3.ipynb)  | ComfyUI-MiniMax-H3 for Video Generation (Tested on the L4)
-
-
-### Wan Workflows
-| LTX | Info
+### Wan
+| Notebooks | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Wan_2_2_Animate/ComfyUI_Wan22_Animate.ipynb)  | ComfyUI - Img+Vid2Vid with Wan2.2 Animate (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Wan2_1_T2V_1_3B_DiffSynth.ipynb)  | T2V & T2I with Wan2.1_T2V_1.3B (Compute units Required)
@@ -47,8 +49,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 
 
-### Other Video Workflows
-| LTX | Info
+### Other Video Notebooks
+| Notebooks | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/HunyuanVideo_1_5/HunyuanVideo_1_5.ipynb)  | ComfyUI-HunyuanVideo-1.5 for Video Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/LongCat_Video/ComfyUI_LongCat_Video.ipynb)  | ComfyUI-LongCat for long Video Generation (Tested on the L4)
@@ -60,8 +62,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 
 
-### Qwen Workflows
-| LTX | Info
+### Qwen-Image
+| Notebooks | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_Image_Edit_Plus/ComfyUI_Qwen_Image_Edit_2509.ipynb)  | ComfyUI - 1 to 3 Images to 1 Image with Qwen Image Edit 2509
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_Image_with_DiffSynth_Control_LoRA/ComfyUI_Qwen_Image_with_Diffsynth_Control_Union_LoRA.ipynb)  | ComfyUI - Img2Img with Qwen + DiffSynth-Control-LoRA
@@ -73,8 +75,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 
 
-### Other Image Workflows
-| LTX | Info
+### Other Image Notebooks
+| Notebooks | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/ComfyUI_Flux1Dev_USO/ComfyUI_Flux1Dev_USO.ipynb)  | ComfyUI - Style and Subject-Driven Image Generation with Flux.1Dev-USO
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Hidream_fp8.ipynb)  | Hidream_fp8 for Text to Image Generation (Compute units Required)
@@ -88,8 +90,8 @@ A Collection of Google Colab Notebooks for scripts & projects
 
 
 
-### Other Workflows
-| LTX | Info
+### Miscellaneous
+| Notebooks | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/scail2/Scail2.ipynb)  | ComfyUI-Scail2 for Motion Transfer & Character Swap (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/AceStep/acestep_v1_5.ipynb)  | ComfyUI-Ace-Step V1.5 for Music Generation
