@@ -1,6 +1,13 @@
 # Google-Colab_Notebooks
 A Collection of Google Colab Notebooks for scripts & projects
 
+### Latest Notebooks
+| Notebooks | Info
+| --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_2_1_Headless.ipynb)  | Qwen-Image 2.1 for Generating & Editing Images
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_image_2_1/ComfyUI_Qwen_Image_2_1.ipynb)  | ComfyUI - Qwen-Image 2.1 for Generating & Editing Images
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/LorasRef2vaHf_Minimax_H3_0_2.ipynb)  | ComfyUI-MiniMax-H3 Reference to Video by [@know1234567](https://github.com/know1234567) (Tested on the L4)
+
 
 ### MiniMax
 | Notebooks | Info
@@ -75,6 +82,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_Gen_Edit.ipynb)  | Qwen-Image for Generating & Editing Images 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_Edit_Plus.ipynb)  | Qwen-Image-Edit 2509 for 1-3 Images to 1 Image
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_Edit_2509_with_mask_editor.ipynb)  | Improved Qwen-Image-Edit-2509 (with Mask Editor)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_2_1_Headless.ipynb)  | Qwen-Image 2.1 for Generating & Editing Images
 
 
 
