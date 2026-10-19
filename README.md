@@ -4,14 +4,15 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### Latest Notebooks
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3_Headless.ipynb)  | MiniMax-H3 for T2IV I2IV & R2V (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_2_1_Headless.ipynb)  | Qwen-Image 2.1 for Generating & Editing Images
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_image_2_1/ComfyUI_Qwen_Image_2_1.ipynb)  | ComfyUI - Qwen-Image 2.1 for Generating & Editing Images
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/LorasRef2vaHf_Minimax_H3_0_2.ipynb)  | ComfyUI-MiniMax-H3 Reference to Video by [@know1234567](https://github.com/know1234567) (Tested on the L4)
 
 
 ### MiniMax
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3_Headless.ipynb)  | MiniMax-H3 for T2IV I2IV & R2V (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/LorasRef2vaHf_Minimax_H3_0_2.ipynb)  | ComfyUI-MiniMax-H3 Reference to Video by [@know1234567](https://github.com/know1234567) (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/MinimaxMusic3.ipynb)  | ComfyUI-MiniMaxMusic3 for Music Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3.ipynb)  | ComfyUI-MiniMax-H3 for Video Generation (Tested on the L4)
