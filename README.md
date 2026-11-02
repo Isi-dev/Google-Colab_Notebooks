@@ -4,9 +4,9 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### Latest Notebooks
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Ming3TTS.ipynb)  |  Text to Speech with Ming-3.0-tts
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3_Headless.ipynb)  | MiniMax-H3 for T2IV I2IV & R2V (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Qwen_Image/Qwen_Image_2_1_Headless.ipynb)  | Qwen-Image 2.1 for Generating & Editing Images
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/Qwen_image_2_1/ComfyUI_Qwen_Image_2_1.ipynb)  | ComfyUI - Qwen-Image 2.1 for Generating & Editing Images
 
 
 ### MiniMax
@@ -105,6 +105,7 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### Miscellaneous
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Ming3TTS.ipynb)  |  Text to Speech with Ming-3.0-tts
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/scail2/Scail2.ipynb)  | ComfyUI-Scail2 for Motion Transfer & Character Swap (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/ComfyUI/AceStep/acestep_v1_5.ipynb)  | ComfyUI-Ace-Step V1.5 for Music Generation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/video2Gif_(Basic).ipynb)  | Video to Gif (basic)
