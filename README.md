@@ -4,15 +4,18 @@ A Collection of Google Colab Notebooks for scripts & projects
 ### Latest Notebooks
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/pi_H3_DWD.ipynb)  | pi_H3_DWD for T2V & I2V (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/H3_Character_Sheet_Generator.ipynb)  | Character Sheet Generation with Minimax-H3-Image & P-H3-Image (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/MiniMax_H3_Image.ipynb)  | MiniMax-H3-Image for T2I & R2I (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/RelayVSR.ipynb)  |  Video Upscaling with RelayVSR (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Ming3TTS.ipynb)  |  Text to Speech with Ming-3.0-tts
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3_Headless.ipynb)  | MiniMax-H3 for T2IV I2IV & R2V (Tested on the L4)
+
+
 
 ### MiniMax
 | Notebooks | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/pi_H3_DWD.ipynb)  | pi_H3_DWD for T2V & I2V (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/H3_Character_Sheet_Generator.ipynb)  | Character Sheet Generation with Minimax-H3-Image & P-H3-Image (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/MiniMax_H3_Image.ipynb)  | MiniMax-H3-Image for T2I & R2I (Tested on the L4)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Isi-dev/Google-Colab_Notebooks/blob/main/Contributions/Minimax_H3_Headless.ipynb)  | MiniMax-H3 for T2IV I2IV & R2V (Tested on the L4)
